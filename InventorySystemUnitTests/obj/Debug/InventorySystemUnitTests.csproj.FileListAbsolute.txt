@@ -1,0 +1,7 @@
+C:\ctest\InventorySystem\InventorySystemUnitTests\bin\Debug\InventorySystemUnitTests.dll
+C:\ctest\InventorySystem\InventorySystemUnitTests\bin\Debug\InventorySystemUnitTests.pdb
+C:\ctest\InventorySystem\InventorySystemUnitTests\bin\Debug\Inventory.dll
+C:\ctest\InventorySystem\InventorySystemUnitTests\bin\Debug\Inventory.pdb
+C:\ctest\InventorySystem\InventorySystemUnitTests\obj\Debug\InventorySystemUnitTests.csprojResolveAssemblyReference.cache
+C:\ctest\InventorySystem\InventorySystemUnitTests\obj\Debug\InventorySystemUnitTests.dll
+C:\ctest\InventorySystem\InventorySystemUnitTests\obj\Debug\InventorySystemUnitTests.pdb
